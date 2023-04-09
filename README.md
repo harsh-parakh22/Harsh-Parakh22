@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Herry22
 - 👀 I’m interested in Blockchain Technology
-- 🌱 I’m currently learning Angular,Php,React,Unix,MongoDB,ASP.net,Flask
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Email- hrsh.parakh02@gmail.com Insta-@herry22_ 
+- 📫 How to reach me
+ Email- hrsh.parakh02@gmail.com
+ LinkedIn- https://www.linkedin.com/in/harsh-parakh22
+ Insta-@herry22_
 
 <!---
 Herry22/Herry22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
