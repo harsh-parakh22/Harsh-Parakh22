@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Parakh</h1>
-<h2 align="center">Frontend Developmer | ReactJs</h2>
+<h2 align="center">Frontend Developer | ReactJs</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-parakh22&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-parakh22" /> </p>
 
