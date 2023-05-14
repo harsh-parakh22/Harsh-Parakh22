@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hrsh.parakh02@gmail.com**
 
-- ⚡ Hobbies : **Adrenaline junkie, Travelling and Listing Music.**
+- ⚡ Hobbies : **Adrenaline junkie, Travelling and Listening Music.**
 
 - ❤️ Love : **Explore new things**
 
