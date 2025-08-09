@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Harsh Parakh</h1>
-<h2 align="center">Frontend Developer | ReactJs</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-parakh22&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-parakh22" /> </p>
 
 
 
-- 🌱 I’m currently learning **React, Blockchain and much more.**
+- 🌱 I’m currently learning **How to design a system, how to maintain it & give the best user experience.**
 
 - 📫 How to reach me **hrsh.parakh02@gmail.com**
 
 - ⚡ Hobbies : **Adrenaline junkie, Travelling and Listening Music.**
 
-- ❤️ Love : **Explore new things**
+- ❤️ Love : **Explore the unexplored tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
