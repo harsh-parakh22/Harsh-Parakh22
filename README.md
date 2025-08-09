@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **How to design a system, how to maintain it & give the best user experience.**
 
-- 📫 How to reach me **hrsh.parakh02@gmail.com**
+- 📫 How to reach me **hrsh.parakh02@gmail.com | harshparakh@ieee.org **
 
 - ⚡ Hobbies : **Adrenaline junkie, Travelling and Listening Music.**
 
