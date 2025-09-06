@@ -4,7 +4,11 @@
 
 
 
-- 🌱 I’m currently learning **How to design a system, how to maintain it & give the best client/user experience.**
+- 💡 Passionate about designing and maintaining systems that deliver seamless client and user experiences.
+
+- 🚀 I love solving real-world problems through innovative solutions.
+
+- 🔗 Enthusiast in blockchain technology with a strong interest in its transformative potential.
 
 - 📫 How to reach me **hrsh.parakh02@gmail.com | harshparakh@ieee.org **
 
