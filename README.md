@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **How to design a system, how to maintain it & give the best user experience.**
+- 🌱 I’m currently learning **How to design a system, how to maintain it & give the best client/user experience.**
 
 - 📫 How to reach me **hrsh.parakh02@gmail.com | harshparakh@ieee.org **
 
